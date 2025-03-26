@@ -1,0 +1,24 @@
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.5.2.0
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "financial-organizer-backend", "financial-organizer-backend.csproj", "{A387C2F7-7B76-22C8-566A-38826906EEC7}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{A387C2F7-7B76-22C8-566A-38826906EEC7}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{A387C2F7-7B76-22C8-566A-38826906EEC7}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{A387C2F7-7B76-22C8-566A-38826906EEC7}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{A387C2F7-7B76-22C8-566A-38826906EEC7}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {EFEAD75C-5240-417B-9CD6-5043DFA4B7F4}
+	EndGlobalSection
+EndGlobal
